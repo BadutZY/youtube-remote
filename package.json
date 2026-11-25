@@ -1,0 +1,13 @@
+{
+  "name": "youtube-remote",
+  "version": "3.0.0",
+  "description": "Remote YouTube dan YouTube Music dari HP: pemutar, cari, beranda, library, antrean, suka, subscribe, layar langsung",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
